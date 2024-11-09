@@ -22,3 +22,5 @@
  - Evaluación de Métricas: Evaluar y reportar el valor F1 del modelo, así como los valores AUC-ROC, para medir su rendimiento en el contexto del desequilibrio de clases.
 
  - Estructura y Limpieza del Código: Mantener una estructura clara y un código limpio, que sea fácil de seguir y entender, facilitando la revisión por parte de otros.
+
+Invitamos abrir el notebook donde se cumplen cada uno de los objetivos trazados para este proyecto. 
