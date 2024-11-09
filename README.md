@@ -1,4 +1,4 @@
-#Banco betaBank modelos de prediccion // Sprint 10: Aprendizaje supervisado 
+# Banco betaBank modelos de prediccion // Sprint 10: Aprendizaje supervisado 
 ## Objetivos del Proyecto: 
 
  - Preparación de los Datos: Asegurarse de que los datos estén limpios y listos para el entrenamiento, procesando adecuadamente todos los tipos de características. Esto incluye la normalización, manejo de valores faltantes y codificación de variables categóricas.
